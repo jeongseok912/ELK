@@ -7,4 +7,4 @@
 - CSV 데이터 추출
 
 
-자세한 설명은 https://jeongseok912.notion.site/ELK-d834a3cec0e640d4a89a7d391aeb6dbe#b586144c93c04d668e160240396b85f4 확인 바랍니다.
+자세한 설명은 https://velog.io/@jskim/ELK-Stack-on-Docker-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%85%8B%ED%8C%85-%EB%B0%8F-CSV-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EC%B6%9C-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0 확인 바랍니다.
